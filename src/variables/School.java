@@ -1,0 +1,66 @@
+package variables;
+
+public class School {
+
+	// project
+	// package under the src folder
+	// java class inside the package
+	// comment
+	//something
+	
+	public static void main(String[] args) {
+		System.out.println ("Class started");
+		System.out.println ("Session in process");
+		int age,size,numberOfStudents;
+		 size=44;
+		 age=28;
+		 numberOfStudents=225;
+		 System.out.println(age);
+		 System.out.println(size);
+		 System.out.println(numberOfStudents);
+		 
+		 
+		 
+				
+		
+		// camel case
+		// start wit lower case and upper case for 
+		//each new word
+		int numOfComputersInCybertek = 4;
+		System.out.println(numOfComputersInCybertek);
+		byte width =39;
+		short population= 3434;
+		double price = 42.99;
+		float price2 = 32.45f;
+		
+		char grade;//characterr. YOu need to use single quotation 
+		           // for a value. It can store single character
+		
+		 grade= 'A';
+//		 'A' vs "A"-->''-> for char and it's a rule.""-> for String 
+//		 String is sequence of character.
+//		 23
+//		 int,byte,short, long, double,
+//		 #,@,&
+		 char specialChar = '#';
+//		 23 ->'23'. No. 23 is two character.
+		 
+		 // boolean 
+		 boolean snowing;
+		 snowing = true;
+		 boolean oktaVerifyResponse;
+		 oktaVerifyResponse= false;
+		 
+	
+		 
+		 
+		
+		
+		
+	
+	}
+}
+
+
+
+
